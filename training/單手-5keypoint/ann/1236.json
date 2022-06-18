@@ -1,0 +1,86 @@
+{
+  "info": {
+    "description": "Lableme Dataset",
+    "version": 4.6,
+    "year": 2022
+  },
+  "license": [
+    "BUAA"
+  ],
+  "images": [
+    {
+      "height": 1024,
+      "width": 1024,
+      "id": 0,
+      "file_name": "1236.jpg"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "iscrowd": 0,
+      "area": 1.0,
+      "segmentation": [
+        [
+          4.25,
+          2.166666666666667,
+          1023.0,
+          1019.875
+        ]
+      ],
+      "bbox": [
+        [
+          4.25,
+          2.166666666666667,
+          1018.75,
+          1017.7083333333334
+        ]
+      ],
+      "keypoints": [
+        [
+          [
+            485.99221789883273,
+            657.5875486381324,
+            1
+          ],
+          [
+            538.953488372093,
+            564.8255813953489,
+            1
+          ],
+          [
+            487.5,
+            687.5,
+            1
+          ],
+          [
+            533.852140077821,
+            680.9338521400779,
+            1
+          ],
+          [
+            543.884892086331,
+            716.3069544364508,
+            1
+          ]
+        ]
+      ],
+      "num_keypoints": 5
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "hand",
+      "id": 1,
+      "name": "hand",
+      "keypoints": [
+        "metacarpal-L",
+        "metacarpal-R",
+        "trapezium",
+        "metacarpal-BL",
+        "index"
+      ]
+    }
+  ]
+}
