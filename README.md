@@ -4,6 +4,7 @@
 1.) AI model training
  
  Use ResNet_50 + FPN  by torchvision 
+ 
  The training folder have detail code
  
  About fasterRCNN you can refer to https://pytorch.org/vision/stable/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html#torchvision.models.detection.fasterrcnn_resnet50_fpn
