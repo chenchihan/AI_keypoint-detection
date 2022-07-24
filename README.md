@@ -7,7 +7,8 @@
  
  The training folder have detail code
  
- About fasterRCNN you can refer to https://pytorch.org/vision/stable/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html#torchvision.models.detection.fasterrcnn_resnet50_fpn
+ About fasterRCNN you can refer to 
+ https://pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html
 
  
  2.) AI model after training
